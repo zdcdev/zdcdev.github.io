@@ -3,6 +3,6 @@ import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://zdcdev.github.io',
+  site: 'https://zephyrcady.com',
   integrations: [mdx(), sitemap()],
 });
